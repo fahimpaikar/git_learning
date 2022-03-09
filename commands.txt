@@ -1,0 +1,6 @@
+cd = change directory
+pwd= current directory
+Touch= Create file
+ls= folder content
+mkdir= create folder
+vi= open and edit file
